@@ -24,7 +24,7 @@ import phpLogo from './assets/tech_logo/php.png';
 
 // Experience Section Logo's
 import celebalLogo from './assets/company_logo/celebal_te.png';
-import insakeLogo from "./assets/company_logo/InSake.png";
+import insakeLogo from './assets/company_logo/inSake.png';
 
 // Project Section Logo's
 import diseasesFor from './assets/work_logo/diseases.png';
